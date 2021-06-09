@@ -10,7 +10,7 @@ CREATE TABLE Customer (
 );
 
 -- Employee
-    CREATE TABLE Employee (
+CREATE TABLE Employee (
     emp_id char(5) NOT NULL,
     username varchar(15) NOT NULL,
     password varchar(16) NOT NULL,
